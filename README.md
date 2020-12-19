@@ -1,16 +1,18 @@
-### Hi there 👋
+Cambiar de carrera profesional no es fácil, pero ¿quién dijo miedo?
 
-<!--
-**irenedrf/irenedrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de FP Desarrollo de Aplicaciones web y del Bootcamp Full-Stack de Neoland.
 
-Here are some ideas to get you started:
+Programadora Full-Stack Junior aprendiendo cada día. Aquí verás mis ejercicios de Neoland y también mis proyectos personales. ¡Echa un vistazo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5
+CSS3
+Bootstrap
+Angular10
+
+NodeJs
+Express
+Rest Api
+
+MySql
+MongoDB
+
