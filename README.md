@@ -4,15 +4,15 @@ Estudiante de FP Desarrollo de Aplicaciones web y del Bootcamp Full-Stack de Neo
 
 Programadora Full-Stack Junior aprendiendo cada día. Aquí verás mis ejercicios de Neoland y también mis proyectos personales. ¡Echa un vistazo!
 
-HTML5
-CSS3
-Bootstrap
+HTML5 -
+CSS3 -
+Bootstrap -
 Angular10
 
-NodeJs
-Express
+NodeJs -
+Express -
 Rest Api
 
-MySql
+MySql -
 MongoDB
 
