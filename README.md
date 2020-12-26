@@ -1,8 +1,11 @@
-Cambiar de carrera profesional no es fácil, pero ¿quién dijo miedo?
+<h1>Full-Stack Developer.</h1>
 
-Estudiante de FP Desarrollo de Aplicaciones web y del Bootcamp Full-Stack de Neoland.
+<h2>Learning and improving my code everyday.</h2>
 
-Programadora Full-Stack Junior aprendiendo cada día. Aquí verás mis ejercicios de Neoland y también mis proyectos personales. ¡Echa un vistazo!
+<p>My passion used to be Arts and History, until coding came into my life. Since then, I can't think of anything else!</p>
+<p>Junior, but fast-learner and high-performance student.</p>
+
+<p>I'm open to job opportunities. Check my projects and feel free to contact me through my email or LinkedIn(https://www.linkedin.com/in/irenedrf/) I'm looking forward to hearing from you.</p> 
 
 HTML5 -
 CSS3 -
@@ -14,5 +17,6 @@ Express -
 Rest Api
 
 MySql -
+PhpMyAdmin -
 MongoDB
 
