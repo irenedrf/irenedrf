@@ -21,7 +21,8 @@ MongoDB
 
 <h2>Also learning...</h2>
 
-SQL - PL/SQL
-XML, XSLT, XPATH, XQUERY
-UML diagrams
-Scrum & Kanban
+<p>SQL - PL/SQL</p>
+<p>XML, XHTML, XSLT, XPATH, XQUERY</p>
+<p>UML diagrams</p>
+<p>Salesforce Marketing Cloud</p>
+<p>Scrum & Kanban</p>
